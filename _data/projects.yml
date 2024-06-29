@@ -5,12 +5,10 @@
 - project: UEFI Exploitation Fuzzer Project
   duration: 2022.07 &mdash; 2022.12
   # url: "#"
-  description: UEFI Security Trends Paper <a href="https://www.cisc.or.kr/">CISC-W`22</a>
-  description: UEFI Security Trends Paper <a href="https://www.cisc.or.kr/">CISC-W`22</a>
+  description: UEFI Security Trends Paper <a href="https://www.cisc.or.kr/">CISC-W`22</a><br><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-27471">CVE-2023-27471</a>(<a href="https://www.insyde.com/security-pledge/SA-2023036">SA-2023036</a>)<br>CVE-2023-30738(<a href="https://security.samsungmobile.com/serviceWeb.smsb?year=2023&month=10">SVE-2023-0437</a>)<br>Project Summary <a href="https://bob-mcd-team.gitbook.io/uefi">GitBook</a>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Node.JS Vulneraiblity Analysis
+  duration: 2023.04 &mdash; 2023.09
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Re-BoB 대상 - 한국정보기술연구원장상<br>Analysis of Trends in ReDoS Vulnerability Detection Tools and Research on Vulnerability Analysis through Improvements -  Paper Award <a href="https://www.cisc.or.kr/">CISC-W`23</a><br>Study on Vulnerability Analysis of Node.js Packages through Prototype Pollution Pattern Investigation<a href="https://www.cisc.or.kr/">CISC-W`23</a><br><a href="https://security.snyk.io/vuln/SNYK-JS-CLICKBARDOTDIVER-6046429">CVE-2023-45827</a><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-23339">CVE-2024-23339</a><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-27088">CVE-2024-27088</a>
