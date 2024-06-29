@@ -12,3 +12,8 @@
   duration: 2023.04 &mdash; 2023.09
   # url: "#"
   description: Re-BoB 대상 - 한국정보기술연구원장상<br>ReDoS 취약점 탐지 도구의동향 분석 및 개선을 통한 취약점 분석 연구 - 학회 우수논문상 <a href="https://www.cisc.or.kr/">CISC-W`23</a><br>프로토타입 오염 패턴 조사를 통한 Node.js 패키지 취약점 분석 연구 <a href="https://www.cisc.or.kr/">CISC-W`23</a><br><a href="https://security.snyk.io/vuln/SNYK-JS-CLICKBARDOTDIVER-6046429">CVE-2023-45827</a>  <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-23339">CVE-2024-23339</a>  <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-27088">CVE-2024-27088</a> ...
+
+- project: CTF
+  duration: 2018 &mdash; Present
+  # url: "#"
+  description: Codegate Junior 2018 Finals<br>Insomni'hack 2018 35th place in H3XOR<br>BOB Attack & Defence CTF 1st in 888<br>BYU CTF 2023 2nd place in Budaejjigae<br>etc..
