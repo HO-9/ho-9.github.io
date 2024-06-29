@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: UEFI Exploitation Fuzzer Project
+  duration: 2022.07 &mdash; 2022.12
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: UEFI Security Trends Paper <a href="https://www.cisc.or.kr/">CISC-W`22</a>
+  description: UEFI Security Trends Paper <a href="https://www.cisc.or.kr/">CISC-W`22</a>
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
