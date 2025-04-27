@@ -18,6 +18,12 @@
   # url: "#"
   description: Codegate Junior 2018 Finals<br>Insomni'hack 2018 35th place in H3XOR<br>BOB Attack & Defence CTF 1st in 888<br>BYU CTF 2023 2nd place in Budaejjigae<br>etc..
 
+- project: Bugbounty
+  duration: 2018 &mdash; Present
+  # url: "#"
+  description: Samsung SDS(FindTheGap)| Birty mail - FVE-2024-5b89-188, FVE-2024-5b89-64, FVE-2024-5b89-127<br>I*** Stored XSS 제보
+
+
 - project: 강의
   duration: 2023 &mdash; 2023
   # url: "#"
