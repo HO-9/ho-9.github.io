@@ -3,6 +3,9 @@
 - skill: System Hacking
   description: 
 
+- skill: AI - LLM
+  description: LLM-Powered Automated Windows Fuzzing Harness Generation
+
 - skill: Web Hacking
   description: 
 
@@ -17,5 +20,3 @@
 - skill: python
   description: 
 
-- skill: AI - LLM
-  description:
